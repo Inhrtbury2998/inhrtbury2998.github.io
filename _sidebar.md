@@ -1,0 +1,25 @@
+<!-- docs/_sidebar.md -->
+- 第一轮
+  - [用户](/user/1.md)
+  - [deepseek](/ai/deepseek/1.md)
+  - [kimi名词解释](/ai/kimi/explanation1.md)
+- 第二轮
+  - [用户](/user/2.md)
+  - [deepseek](/ai/deepseek/2.md)
+  - [deepseek名词解释](/ai/deepseek/explanation2.md)
+- 第三轮
+  - [用户](/user/3.md)
+  - [deepseek](/ai/deepseek/3.md)
+  - [deepseek名词解释](/ai/deepseek/explanation3.md)
+- 第四轮  
+  - [用户](/user/4.md)
+  - [deepseek](/ai/deepseek/4.md)
+  - [deepseek名词解释](/ai/deepseek/explanation4.md)
+- 第五轮
+  - [用户](/user/5.md)
+  - [deepseek](/ai/deepseek/5.md)
+  - [deepseek名词解释](/ai/deepseek/explanation5.md)
+- 第六轮
+  - [用户](/user/6.md)
+  - [deepseek](/ai/deepseek/6.md)
+  - [设定汇总](/ai/kimi/summary1.md)
