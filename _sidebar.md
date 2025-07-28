@@ -23,3 +23,5 @@
   - [用户](/user/6.md)
   - [deepseek](/ai/deepseek/6.md)
   - [设定汇总](/ai/kimi/summary1.md)
+- 验算
+  - [表面温度验算](/user/temperature.md)
